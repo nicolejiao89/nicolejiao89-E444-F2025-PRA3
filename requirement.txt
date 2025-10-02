@@ -3,6 +3,5 @@ Flask-SQLAlchemy
 gunicorn
 pytest
 psycopg2
-Python
 Flake8
 Black
