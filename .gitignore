@@ -1,0 +1,14 @@
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+bin/
+include/
+lib/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Python bytecode caches
+.pytest_cache/
