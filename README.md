@@ -14,3 +14,4 @@ https://nicolejiao89-e444-f2025-pra3.onrender.com
 #### final formatting
 ![Screenshot of repo](images/finalformatting/1.png)
 ![Screenshot of repo](images/finalformatting/2.png)
+![Screenshot of repo](images/finalformatting/3.png)
